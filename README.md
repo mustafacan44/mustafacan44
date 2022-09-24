@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafacan44
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java, Spring boot, MYSQL
+- 🌱 I’m currently learning java, Spring boot,
 - 📫 How to reach me ... mustafacansahin.4406@gmail.com
 - 
 
